@@ -23,7 +23,7 @@ SCREEN_WIDTH = 400
 SCREEN_HEIGHT = 400
 SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 LEVEL = 1
-SCORE = 30
+SCORE = 10
 
 #Setting up Fonts
 font = pygame.font.SysFont("Verdana", 60)
